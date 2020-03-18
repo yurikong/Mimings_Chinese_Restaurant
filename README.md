@@ -1,4 +1,6 @@
 # Miming's_Chinese_Restaurant
+###### project description is in pdf
 - the goal is to design a database system for Miming's Chinese Cuisine Restaurant
-- project description is in pdf
-###### contributors: Charles Kwak, Fabio Colacio, Wolfgang HellicksonSabelhaus
+
+
+##### contributors: Charles Kwak, Fabio Colacio, Wolfgang HellicksonSabelhaus
